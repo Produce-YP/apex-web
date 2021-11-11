@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Road Map',
+    paragraph: 'This is where I am going to come up with something cool'
   };
 
   return (
@@ -67,13 +67,19 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                Quarter 4
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Lauch of Copy Cat
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Discord is now open and twitter page is up come on and join! 
+                  Users can now now min their Cats!
+                  Community Give Away on Discord
+                  20% of Cats Minted 
+                  40%
+                  60%
+                  80% Snapshot of all current owns are eljeble generation 2 air drop!!! 
                   </p>
               </div>
               <div className={
@@ -93,7 +99,7 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Q3 
                   </div>
                 <h3 className="mt-0 mb-12">
                   Data-driven insights
